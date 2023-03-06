@@ -1,4 +1,8 @@
-### Hi there 👋
+# Aditya Shah
+
+<img src="https://media.discordapp.net/attachments/1081988909518573710/1082217146815369227/c9cc6646b0782a5c07e5d7f232fa1c81.jpg" align="right" />
+
+### I’m Aditya an IN based front-end web developer with 2 years of experience. I specialise in UX/UI design for web-based applications with a focus on simplicity & usability. I’m passionate about design and technology and how the two can converge to create experiences for good.
 
 <!--
 **ewwadii/ewwadii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
