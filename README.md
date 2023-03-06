@@ -8,8 +8,9 @@
 
 ### Socials - 
 
-<a herf=""><img width="50" src="https://github.com/ewwadii/ewwadii/blob/main/assets/twitter.png?raw=true" align="left" /></a>
-<a herf=""><img width="50" src="https://raw.githubusercontent.com/ewwadii/ewwadii/7b53340fe575184cefae874eac15b63f5457c579/assets/behance.svg" align="left" /></a>
+<a herf="https://instagram.com/ewww_adi"><img width="50" src="https://raw.githubusercontent.com/ewwadii/ewwadii/e6a8b883423ceaa6b23e6c31b85b1f21dd05d05f/assets/instagram.svg" align="left" /></a>
+<a herf="https://twitter.com/ewww_adi"><img width="50" src="https://raw.githubusercontent.com/ewwadii/ewwadii/65e3101ffa9bea7cb1acf05def3b30104e719103/assets/twitter.svg" align="left" /></a>
+<a herf="https://behance.com/TheRealAdityaS"><img width="50" src="https://raw.githubusercontent.com/ewwadii/ewwadii/d63d87d8118aa47b2952a407ed3d53b60fa08ff6/assets/behance.svg" align="left" /></a>
 
 <!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/ewwadii/badges) -->
 
